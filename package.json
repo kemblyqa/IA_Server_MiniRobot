@@ -1,0 +1,23 @@
+{
+  "name": "ia_server",
+  "version": "1.0.0",
+  "description": "sockets to send voice commands in strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemblyqa/IA_Server_MiniRobot.git"
+  },
+  "author": "Kembly Quirós",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemblyqa/IA_Server_MiniRobot/issues"
+  },
+  "homepage": "https://github.com/kemblyqa/IA_Server_MiniRobot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
